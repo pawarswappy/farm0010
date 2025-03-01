@@ -921,6 +921,7 @@ p {
   padding: 50px 10%;
   text-align: center;
   background-color: #F8F3ED;
+  max-width: 100%;
 }
 
 .services-container {
@@ -932,6 +933,7 @@ p {
 
 /* Service Box */
 .service-box {
+  padding: 15px;
   background: white;
   border-radius: 8px;
   overflow: hidden;
